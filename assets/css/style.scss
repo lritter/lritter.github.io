@@ -1,8 +1,13 @@
 ---
 ---
 
+// @import "{{ site.theme }}"; // Uncomment to make this file modify theme selected in _config.yml
+
+$font-stack: Helvetica, sans-serif;
+
 main {
     max-width: 70ch;
     padding: 2ch;
     margin: auto;
+    font: 100% $font-stack;
 }
