@@ -1,2 +1,32 @@
-title: Lincoln Ritter
-description: As simple as possible and no simpler.
+# Site settings
+title: "Lincoln Ritter"
+description: > 
+  As simple as possible and no simpler.
+
+author: Lincoln Ritter
+# email: johnny@appleseed.com
+twitter_username: lincolnritter
+github_username: lritter
+instagram_username: lincolnritter
+
+homepage_id: Home
+
+# Handling of posts
+show_posts: false
+
+# baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://www.lincolnritter.com" # the base hostname & protocol for your site
+
+# google_analytics_id: XXX
+# disqus_id: XXX
+
+# Build settings
+include: [_pages]
+markdown: kramdown
+permalink: /:year/:month/:title.html
+
+sass:
+    style: compressed
+
+exclude: [vendor]
+
