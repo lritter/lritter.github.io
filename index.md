@@ -3,7 +3,7 @@ title: Home
 layout: content
 ---
 
-# Hi
+# Hi There
 
 I'm Lincoln. I live in Brooklyn, NY. Thanks for visiting my site.
 
