@@ -15,7 +15,7 @@ homepage_id: Home
 show_posts: false
 
 # baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://www.lincolnritter.com" # the base hostname & protocol for your site
+url: "https://lritter.net" # the base hostname & protocol for your site
 
 # google_analytics_id: XXX
 # disqus_id: XXX
